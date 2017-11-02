@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-VS_projecrt",
+      "appliesTo": "VS_projecrt/",
+      "type": "launch"
+    }
+  ]
+}
